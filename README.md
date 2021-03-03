@@ -1,5 +1,6 @@
 # BOP Toolkit
 
+
 A Python toolkit of the BOP benchmark for 6D object pose estimation
 (http://bop.felk.cvut.cz).
 
